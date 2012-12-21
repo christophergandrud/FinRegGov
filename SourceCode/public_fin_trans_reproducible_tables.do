@@ -1,6 +1,6 @@
 ////////////////////////////////
 // Reproducible Tables for "Who is Watching: A Multi-state Event History Analysis of Financial Supervision Governance Diffusion"
-// Author: --
+// Author: Christopher Gandrud
 // Updated 24 July 2012
 // Using Stata 12
 ////////////////////////////////

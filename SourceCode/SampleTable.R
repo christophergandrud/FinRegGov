@@ -1,6 +1,6 @@
 ##############
 # Create table for the list of countries and their financial supervisors for the paper "Who is Watching?"
-# Author: ---
+# Author: Christopher Gandrud
 # Updated: 21 July 2012
 ##############
 

@@ -1,6 +1,6 @@
 #################
 # Create supervisory reform heatmap
-# Author --
+# Author Christopher Gandrud
 # Updated 7 February 2012
 #################
 

@@ -1,6 +1,6 @@
 ***************
 * Test Proportional Hazards Assumption for "Who is Watching?"
-* Author: ---
+* Author: Christopher Gandrud
 * Updated 22 July 2012
 ***************
 

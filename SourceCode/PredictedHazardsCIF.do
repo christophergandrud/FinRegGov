@@ -1,6 +1,6 @@
 ***************
 * Predicted hazard and cumulative hazards "Who is Watching?"
-* Author: ---
+* Author: Christopher Gandrud
 * Updated 24 July 2012
 ***************
 
